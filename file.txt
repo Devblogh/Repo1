@@ -1,3 +1,11 @@
 
 
-This is test file for file.txt format
+
+
+
+
+
+
+
+This is new changes to track via diff command 
+Hence removed the existing data from the file
